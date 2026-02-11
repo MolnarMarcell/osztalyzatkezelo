@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, sans-serif;
+}
+h1 {
+    margin-bottom: 20px;
+}
+label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+select, button {
+    margin-top: 5px;
+    padding: 5px;
+}
+.jegyek-gombok button {
+    margin-right: 5px;
+    width: 35px;
+    height: 30px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th{
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f2f2f2;
+    text-align: left;
+}
